@@ -1,0 +1,15 @@
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.exe.config
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.exe
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.pdb
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.xml
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.vbprojResolveAssemblyReference.cache
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant_Data.Form1.resources
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant_Data.Resources.resources
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.vbproj.GenerateResource.Cache
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.exe
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.xml
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.pdb
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.exe.manifest
+D:\Works\Plant Data\Plant Data\bin\Debug\Plant Data.application
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.exe.manifest
+D:\Works\Plant Data\Plant Data\obj\Debug\Plant Data.application
